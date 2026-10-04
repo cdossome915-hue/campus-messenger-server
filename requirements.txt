@@ -1,3 +1,7 @@
 fastapi
 uvicorn[standard]
-gunicorn
+asyncpg
+redis
+python-jose
+passlib[bcrypt]
+python-multipart
